@@ -79,35 +79,3 @@ def Password12():
     print(password, end = '')
 Password12()
 
-
-# while wi < i:
- 
-#  wi +=1
-
- 
-
-# w = 0
-# z = 0
-# Passwort1 = []
-# Passwort2 = []
-# while w < i:
-#   import random
-
-#             # Zufällige Auswahl aus einer Liste von Zeichen
-#   zeichenliste = ['A', 'B', 'C', 'D', 'E', 'D','F']
-#   zufallszeichen = random.choice(zeichenliste)
-#   Passwort1.append(zufallszeichen)
-#   w +=1
-
-# while z < i:
-#   import random
-#   zahl = random.randint(0, 10)
-#   Passwort2.append(zahl)
-#   z +=1
-
-
-# Passwort3 = Passwort1 + Passwort2
-# import random             
-# random.shuffle(Passwort3)
-# for P in Passwort3: 
-#  print(P , end='')
